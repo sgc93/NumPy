@@ -8,4 +8,4 @@ this repo is all about the three libraries of Python, namely; NumPy, Pandas and 
 </ul>
    
 ## Links
-<a href="https://github.com/sgc93/Python-Libraries/tree/main/MatPlotLib"> NumPy</a>         <a href=""> Pandas</a>        <a href=""> MatPlotLib</a>
+<a href="https://github.com/sgc93/Python-Libraries/tree/main/MatPlotLib"> NumPy</a>         <a href="https://github.com/sgc93/Python-Libraries/tree/main/Pandas"> Pandas</a>        <a href="https://github.com/sgc93/Python-Libraries/tree/main/MatPlotLib"> MatPlotLib</a>
